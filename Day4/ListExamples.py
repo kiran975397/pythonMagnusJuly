@@ -15,4 +15,5 @@ a1.pop(1) # based on index number index number it removes that element
 print(a1) #output is 5,abc,kiran,welcome,7.4,a
 a1.remove('kiran')# remove function removes specific element
 print(a1)
-
+#print is a function for getting output on console
+print(a1)  # after print we need to give a right click and run the file for output
